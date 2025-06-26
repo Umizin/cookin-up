@@ -5,16 +5,16 @@
       <img src="../assets/images/logo.svg" alt="Logo do Cookin' Up" class="logo">
 
       <p class="cabecalho-lg frase-cabecalho">
-        <span class="texto-verde">A feast of ideias to</span>
-        awaken you inner chef!
+        <span class="texto-verde">Um banquete de ideias para</span>
+        despertar o chef que há em você!
       </p>
 
       <p class="subtitulo-lg">
-        Discover a world of new recipes everyday with ingredients in your fingertips!
+        Explore novas receitas todos os dias com os ingredientes que estão ao seu alcance.
       </p>
     </div>
 
-    <img src="../assets/images/foto-banner.png" alt="Foto de uma mulher cozinhando com uma bacia de vidro nas m�os." class="foto-banner">
+    <img src="../assets/images/foto-banner.png" alt="Foto de uma mulher cozinhando com uma bacia de vidro nas m�os." class="foto-banner">
 </header>
 
 </template>
